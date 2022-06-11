@@ -88,3 +88,22 @@ a, button {
 	pointer-events: all;
 	transform: translateY(0px);
 }
+
+
+.test1 {
+
+  background-color: #D5B5C0;
+  align-content: center;
+  height: 150px;
+  width: 400px;
+  align-items: center;
+  text-align: center;
+  margin: 200px;
+  margin-left: 500px;
+  padding: 20px;
+  border-radius: 10px ;
+  border-color: #471A29;
+  border-style: solid;
+
+
+}
